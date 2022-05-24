@@ -1,5 +1,7 @@
-## Simple Web Scraper
+## Simple Web Scraper for Braze
 Scraper for Braze Technology Partners. Nested to open partner urls and gather additional metadata - `Built for fun only`
+
+![](https://raw.githubusercontent.com/mohapsat/braze_partner_scraper/master/rec.gif)
 
 ## Steps to run
 1. Install requirements
