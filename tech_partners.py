@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 
-
 url = "https://www.braze.com/partners/technology-partners"
 page = requests.get(url)
 # page = "page.html"
